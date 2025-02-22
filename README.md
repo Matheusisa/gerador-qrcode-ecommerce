@@ -114,6 +114,13 @@ Crie um arquivo `.env` e adicione as configurações necessárias conforme o mod
  npm start
 ```
 
+### 6️⃣ Escolhendo a Opção Correta
+Após rodar o comando `npm start`, selecione a opção:
+```
+1 - QRCODE
+```
+para gerar os QR Codes corretamente.
+
 O servidor estará rodando e pronto para gerar QR Codes!
 
 ## 📸 Exemplo de Uso
