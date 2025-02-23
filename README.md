@@ -1,7 +1,7 @@
 <!--START_SECTION:header-->
 <div align="center">
   <p align="center">
-    <h1>Gerador de QRcode para e-commerce</h1>
+    <h1>Gerador de QR code para e-commerce</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
